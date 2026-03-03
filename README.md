@@ -217,10 +217,4 @@ http://localhost:8501
 
 ------------------------------------------------------------------------
 
-# 📄 License
-
-MIT License
-
-------------------------------------------------------------------------
-
 ⭐ If you found this useful, consider starring the repository.
