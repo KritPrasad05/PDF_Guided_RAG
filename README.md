@@ -53,23 +53,23 @@ This system solves these problems by implementing:
 # 🏗 System Architecture
 
 PDF Upload\
-↓\
+    ↓\
 PDF → Markdown Conversion\
-↓\
+    ↓\
 Markdown Header Split\
-↓\
+    ↓\
 Semantic Chunking\
-↓\
+    ↓\
 Recursive Chunking\
-↓\
-GPU Batch Embedding (Parallelized)\
-↓\
+    ↓\
+GPU Batch Embedding (Parallelised)\
+    ↓\
 FAISS Vector Store\
-↓\
+    ↓\
 MMR Retriever\
-↓\
+    ↓\
 Groq LLM\
-↓\
+    ↓\
 Formatted Response (LaTeX supported)
 
 ------------------------------------------------------------------------
