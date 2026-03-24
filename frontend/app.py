@@ -5,7 +5,7 @@ import re
 
 BACKEND_URL = "http://127.0.0.1:8001"
 
-st.title("Gemini PDF RAG System")
+st.title("Talk with your PDF RAG System")
 
 uploaded_file = st.file_uploader("Upload PDF", type="pdf")
 
