@@ -2,6 +2,8 @@
 
 ### High-Performance Retrieval-Augmented Generation for Large Documents
 
+Demo Video: [Talk_With_Your_PDF_RAG_System_Demo](https://drive.google.com/file/d/1LSQmrTm2O3d79sAzDLYHK5Fikxxpb0Vj/view?usp=sharing)
+
 ------------------------------------------------------------------------
 
 ## 🚀 Project Overview
